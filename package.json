@@ -1,0 +1,13 @@
+{
+  "name": "irc-ws-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ws": "^8.13.0",
+    "irc-framework": "^4.13.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
+
